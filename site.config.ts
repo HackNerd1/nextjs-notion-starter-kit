@@ -19,7 +19,7 @@ export default siteConfig({
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'he123987',
+  github: 'HackNerd1',
   // linkedin: 'fisch2',
   zhihu: 'wo-cong-wu-li-lai-59',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
